@@ -1,6 +1,6 @@
 # ----------------------------------------------------------------------------- #
 #                                                                               #             
-# 	Project:        Bump Sensor Sample                                          #
+#   Project:        Bump Sensor Sample                                          #
 #   Author:         Andrew Olin                                                 #
 #   Created:        Sept 04 2024                                                #
 #   Description:    This example will show some key ways the Bump               #

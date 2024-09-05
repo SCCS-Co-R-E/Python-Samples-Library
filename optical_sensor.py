@@ -1,9 +1,9 @@
 # ----------------------------------------------------------------------------- #
 #                                                                               #             
-# 	Project:        Optical Sensor Sample                                       #
+#   Project:        Optical Sensor Sample                                       #
 #   Author:         Andrew Olin                                                 #
 #   Created:        Sept 04 2024                                                #
-#	  Description:    This example will show some key ways the Optical            #
+#   Description:    This example will show some key ways the Optical            #
 #                   sensor can be used                                          #
 #                                                                               #                                                                          
 #   Configuration:  Optical Sensor in Port 20                                   #

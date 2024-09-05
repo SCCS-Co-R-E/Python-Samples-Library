@@ -1,9 +1,9 @@
 # ----------------------------------------------------------------------------- #
 #                                                                               #             
-# 	Project:        SmartDrive Drivetrain Sample                                #
+#   Project:        SmartDrive Drivetrain Sample                                #
 #   Author:         Andrew Olin                                                 #
 #   Created:        Sept 04 2024                                                #
-#	Description:    This example will show configuring a SmartDrive             #
+#   Description:    This example will show configuring a SmartDrive             #
 #                   Drivetrain with some control examples                       #
 #                                                                               #                                                                          
 #   Configuration:  6 motor skid-steer chassis (1-3,8-10),                      #
